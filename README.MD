@@ -27,9 +27,13 @@ eBook Profissional: Um guia completo, visualmente atrativo e fácil de entender,
 Modelo Reutilizável: O PowerPoint criado pode servir de base para outros projetos educacionais ou apresentações.
 Este projeto demonstra como a união de tecnologias generativas e ferramentas tradicionais pode resultar em um material educacional poderoso e inovador. 🚀
 
+Nova versão
+
+[📄 Visualizar o eBook em PDF](https://github.com/AdriSandes/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Transforma%C3%A7%C3%A3o%20Banc%C3%A1ria%20%C3%81gil%20V2.pdf)
+
+
+Versão antiga
 [📄 Visualizar o eBook em PDF](https://github.com/AdriSandes/prompts-recipe-to-create-a-ebook/blob/de0b35e25cfaf9ca5424303f5fe324a999f326b1/Ebook-Transforma%C3%A7%C3%A3o%20Banc%C3%A1ria%20%C3%81gil.pdf)
-
-
 
 
 
